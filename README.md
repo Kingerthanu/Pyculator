@@ -1,5 +1,8 @@
 # Pyculator
 Python Tkinter Simple Calculator
+
+<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/63322de7-d5dc-4b22-bc1c-4933796517ab" alt="Cornstarch <3" width="95" height="99">
+
 ______________________________________________
 A calculator I created using python using tkinter. I wanted to learn about arithmetics and how you could interpolate user input into given outputs. I currently don't have PEMDAS establishes, wish to come back to refine some of the problems with UI and interpolation.
 
