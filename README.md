@@ -11,6 +11,15 @@ A calculator I created using python using tkinter. I wanted to learn about arith
 
 **The Breakdown:**
 
+  This Python Program Utilizes Tkinter In Order To Make A Utility Window To Work As A Calculator. 
+
+  The Calculator Is Made In Its Own "pyculator" class In Which Encapsulates All Functionality. 
+
+  When We Call Initialization Of A pyculator Instance We Will Create A Tkinter Window With The General Expected Button Layout And General Functionality Of A Calculator. The Calulator Holds A Member For If It Will Reset Its Value After Next Button Press (I.E. Solved, Then User Presses Another Number To Start A New Calculation). As Well As This, The self.var Will Hold The Current Stream Buffer Where Out Calculations Will Be Placed To Be Displayed To THe User.
+
+  The Current Available Functionality Is Quite Limited, As We Can Do Simple 2-Way Calculations Which Can Compound Into Longer Expressions But Proper PEMDAS Isn't Used Which Is Easy To See Now But During Creation Of This Program Seemed Impossible (Will Try To Come Back And Sand Out).
+
+  This Program Honestly Was Quite Advanced For My Older Self As It Allowed Me To Get Comfortable With Lambda Callback Functions For Buttons So I Could Have Quite Robust Codebases. There Is Equal Parts Of Redundancy In My Code And Some Parts Which Just Don't Make Sense But Still Was Very Informative And Functional.
 
 
 <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/576c4802-0415-4d7d-a6ea-5eb66bb9d013" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/576c4802-0415-4d7d-a6ea-5eb66bb9d013" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/576c4802-0415-4d7d-a6ea-5eb66bb9d013" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/576c4802-0415-4d7d-a6ea-5eb66bb9d013" alt="Cornstarch <3" width="55" height="49">
