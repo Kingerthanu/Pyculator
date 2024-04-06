@@ -17,7 +17,8 @@ A calculator I created using python using tkinter. I wanted to learn about arith
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59">
+<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/7f733f0c-135f-40b5-b4a9-eaec54a4daa0" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/7f733f0c-135f-40b5-b4a9-eaec54a4daa0" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/7f733f0c-135f-40b5-b4a9-eaec54a4daa0" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/7f733f0c-135f-40b5-b4a9-eaec54a4daa0" alt="Cornstarch <3" width="55" height="49">
+
 
 
 **Features:**
@@ -26,3 +27,6 @@ A calculator I created using python using tkinter. I wanted to learn about arith
 ![pycalculator1](https://github.com/Kingerthanu/Pyculator/assets/76754592/6163e0ce-d4b4-467c-aa36-ddb6b787eb45)
 ![pycalculator2](https://github.com/Kingerthanu/Pyculator/assets/76754592/6e8db455-eb5c-4a1e-a473-34cac228dad1)
 ![pycalculator3](https://github.com/Kingerthanu/Pyculator/assets/76754592/2cc6bbea-1521-4aed-bd4d-f2a31ede2d0a)
+
+
+<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"> <img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59">
