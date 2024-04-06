@@ -17,6 +17,9 @@ A calculator I created using python using tkinter. I wanted to learn about arith
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49">
+
+
 **Features:**
 
 ![2024-01-0923-52-42-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/Pyculator/assets/76754592/46b7c8b1-5642-4236-8787-8516f0817a44)
