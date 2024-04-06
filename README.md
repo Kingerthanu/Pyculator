@@ -17,7 +17,7 @@ A calculator I created using python using tkinter. I wanted to learn about arith
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59"><img src="https://github.com/Kingerthanu/Pyculator/assets/76754592/bdc35425-c8d7-474f-a8dd-4a49b59792b1" alt="Cornstarch <3" width="65" height="59">
 
 
 **Features:**
